@@ -1,5 +1,11 @@
 <resources>
     <string name="app_name">Tweather</string>
-    <string name="current_temperature">Current temperature</string>
-    <string name="temperature">%1$f °C / %2$f °F</string>
+    <string name="current_temperature">Current temperature:</string>
+    <string name="temperature">%1$.2f °C / %2$.2f °F</string>
+    <string name="wind_speed">Wind Speed: %1$.2f</string>
+    <string name="see_the_future">See the future</string>
+    <string name="standard_deviation_of_the_future">Standard deviation of the future:</string>
+    <string name="future_weather">Future weather:</string>
+    <string name="sd">%1$.2f</string>
+    <string name="error_text">Network Error</string>
 </resources>
